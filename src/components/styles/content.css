@@ -1,0 +1,25 @@
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+    width: 100vw;
+    color: aliceblue;
+}
+p {
+    font-size: 18px;
+    margin-bottom: 1rem;
+
+}
+button{
+    height: 30px;
+    padding: 3px;
+    margin-right: 1em;
+    border-radius: 10px;
+    width: 8rem;
+    background-color: #00FFFF;
+    border: none;
+    font-size: 14px;
+    font-weight: 400;
+}
